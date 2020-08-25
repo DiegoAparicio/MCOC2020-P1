@@ -65,8 +65,8 @@ for V in Vs:
     plt.ylabel("Y (m)")
     plt.xlabel("X (m)")
 plt.legend(loc="upper right")
-plt.savefig("trayectoria.png")
-plt.show()
+plt.savefig("trayectoria.png") #se genera la imagen en formato png
+#plt.show() #se omite plt.show debido a que en el enunciado decia no abrir ventana de visualizacion
 
 
 
