@@ -90,12 +90,12 @@ print ("deriva de velocidad en x: ",pos_final[3],"[m/s]")
 print ("deriva de velocidad en y: ",pos_final[4],"[m/s]")
 print ("deriva de velocidad en z: ",pos_final[5],"[m/s]")
 
-deriva = (x_f**2+y_f**2+z_f**2)**(1/2)
-deriva1 = (sol[-1,0]**2+sol[-1,1]**2+sol[-1,2]**2)**(1/2)
+deriva1 = (pos_final[0]**2+pos_final[1]**2+pos_final[2]**2)**(1/2)
 
-diffderiva= deriva-deriva1
 
-print ("La diferencia de posicion o norma en el espacio es de: ",diffderiva,"m")
+
+print ("La diferencia de posicion o norma en el espacio es de: ",deriva1,"m")
+
 
 
 
