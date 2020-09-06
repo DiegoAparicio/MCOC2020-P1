@@ -15,8 +15,8 @@
 - Pregunta 3:
 - Pregunta 4:
   - Graficos resultados:
-      -![image](https://user-images.githubusercontent.com/43451947/92336595-b57f9300-f078-11ea-86b0-6d7612492466.png)
-      -![image](https://user-images.githubusercontent.com/43451947/92336598-bd3f3780-f078-11ea-885e-607b9770ed76.png)
-      -![image](https://user-images.githubusercontent.com/43451947/92336603-c3cdaf00-f078-11ea-969d-31dce258849e.png)
-      -![image](https://user-images.githubusercontent.com/43451947/92336613-d1833480-f078-11ea-89f7-386112229782.png)
+  -![image](https://user-images.githubusercontent.com/43451947/92336595-b57f9300-f078-11ea-86b0-6d7612492466.png)
+  -![image](https://user-images.githubusercontent.com/43451947/92336598-bd3f3780-f078-11ea-885e-607b9770ed76.png)
+  -![image](https://user-images.githubusercontent.com/43451947/92336603-c3cdaf00-f078-11ea-969d-31dce258849e.png)
+  -![image](https://user-images.githubusercontent.com/43451947/92336613-d1833480-f078-11ea-89f7-386112229782.png)
 
