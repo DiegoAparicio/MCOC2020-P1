@@ -14,3 +14,5 @@
   - El tiempo que toma eulerint en producir los resultados es de: 0.475070400047116 segundos
 - Pregunta 3:
 - Pregunta 4:
+  - Graficos resultados:
+      -
