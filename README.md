@@ -6,7 +6,8 @@
 - ![image](https://user-images.githubusercontent.com/43451947/91516595-e6620a00-e8b9-11ea-8eeb-7cb335a26baf.png)
 # Entrega5 - Mejoras al modelo y estudio de convergencia
 - Pregunta 1:
-  -
+  - Grafico resultado:
+    -![image](https://user-images.githubusercontent.com/43451947/92336431-c62f0980-f076-11ea-9fee-5d2e557030ea.png)
 - Pregunta 2:
 - Pregunta 3:
 - Pregunta 4:
