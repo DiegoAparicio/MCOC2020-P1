@@ -24,3 +24,7 @@
   
   ![image](https://user-images.githubusercontent.com/43451947/92336613-d1833480-f078-11ea-89f7-386112229782.png)
 
+  - Como se puede apreciar en los graficso, ocurrio algo bastante interesante en mi caso, el cual fue que aplicando la mejora de J2, la deriva de la posicion final fue de 4.3 Km, mientras que cuando se aplico la mejora de J2 y J3, la deriva aumento un poco siendo esta de 6.6 Km lo que fue inusual porque se supone que deberia disminuir el error, pero esto se puede deber a que no todos los archivos EOF son iguales, lo puedo verificar por el hecho que el profesor cuando corrio los codigos en su computador pasaba lo mismo.
+  - Para el caso de la mejora J2: El tiempo que toma al codigo producir los resultados es de: 1.1903783000307158 segundos
+  - Para el caso de la mejora J2 y J3: El tiempo que toma al codigo producir los resultados es de: 1.4467591000720859 segundos
+  - Cabe destacar que estos tiempos oscilan, y van aproximadamente del rango de 1.15 a 1.5 segundos, pero no mas ni menos que eso, siendo estos bastante parecidos.
