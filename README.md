@@ -15,6 +15,7 @@
 - Pregunta 3:
 - Pregunta 4:
   - Graficos resultados:
+  
   ![image](https://user-images.githubusercontent.com/43451947/92336595-b57f9300-f078-11ea-86b0-6d7612492466.png)
   
   ![image](https://user-images.githubusercontent.com/43451947/92336598-bd3f3780-f078-11ea-885e-607b9770ed76.png)
