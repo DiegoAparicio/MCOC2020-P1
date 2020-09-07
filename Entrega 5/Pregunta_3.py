@@ -117,7 +117,7 @@ z0 = np.array([
 sol = odeint(zpunto, z0, t)
 
 t1 = perf_counter()
-sol_euler = eulerint(zpunto,z0,t,Nsub=1000)
+sol_euler = eulerint(zpunto,z0,t,Nsub=10000)
 t2 = perf_counter()
 tiempo_euler = t2-t1
 
@@ -161,7 +161,7 @@ print (f"el tiempo de ejecucion de eulerint es de: {tiempo_euler/60} minutos o {
 
 plt.figure()
 plt.plot(t/3600,delta/1000,label="Odeint")
-plt.plot(t/3600,delta_euler/1000,label="Eulerint Nsub = 1000")
+plt.plot(t/3600,delta_euler/1000,label="Eulerint Nsub = 10000")
 plt.suptitle(f"Distancia entre posicion real y predicha, $\\delta_{{max}} = {delta[-1]/1000:.1f}$ (Km)")
 plt.ylabel("Deriva, $\\delta$ (KM)")
 plt.xlabel("Tiempo, $t$ (horas)")
