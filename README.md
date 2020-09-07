@@ -13,6 +13,12 @@
   - El tiempo que toma odeint en producir los resultados es de: 0.1689461999339983 segundos
   - El tiempo que toma eulerint en producir los resultados es de: 0.475070400047116 segundos
 - Pregunta 3:
+  - Grafico resultado:
+  
+  ![image](https://user-images.githubusercontent.com/43451947/92338312-f03bf800-f085-11ea-9cb4-21aeaca907a1.png)
+  - A partir del grafico se puede apreciar que para eulerint con Nsubdivisiones = 10000 se acerca bastante al resultado de odeint, pero aun le falta para ser exacto.
+  En mi caso con esta cantidad de subdivisiones el error fue de 5.3957092911654305 %, con un tiempo de ejecucion del codigo de 1.3012106068333378 horas.
+  Como el tiempo de ejecucion fue bastante largo, no quise aumentar el numero de subdivisiones debido a que iba a estar horas y horas tratando de averiguar la cantidad de subdivisiones para que fuese menor a un 1%, pero puedo decir que con alrededor de Nsubdivisiones = 100000 deberia estar en menos el 1% de error, siendo que el tiempo de ejecucion es lineal con respecto a la cantidad de subdivisiones, habria tomado cerca de 13 horas de ejecucion para esta cantidad de subdivisiones en mi computador, ya que este tiempo para cada computador es diferente.
 - Pregunta 4:
   - Graficos resultados:
   
