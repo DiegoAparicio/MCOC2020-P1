@@ -34,3 +34,5 @@
   - Para el caso de la mejora J2: El tiempo que toma al codigo producir los resultados es de: 1.1903783000307158 segundos
   - Para el caso de la mejora J2 y J3: El tiempo que toma al codigo producir los resultados es de: 1.4467591000720859 segundos
   - Cabe destacar que estos tiempos oscilan, y van aproximadamente del rango de 1.15 a 1.5 segundos, pero no mas ni menos que eso, siendo estos bastante parecidos.
+# Entrega Final
+- De acuerdo a lo solicitado segun canvas, las diferencias de esta entrega radican en la implementacion de variables mas precisas, es decir con mas decimales tal como "mu" que ahora tiene un valor de: mu = 398600441550000.000000, la cual genera una mejora de al rededor de 500 metros con respecto a la deriva de la entrega anterior, esto tambien lo hice con los terminos J2 yJ3, debido a que probe agragando terminos hasta llegar al J8, pero no fue mas preciso en mi caso y demoro cerca de 45 segundos, lo que a mi parecer no era tan optimo. 
